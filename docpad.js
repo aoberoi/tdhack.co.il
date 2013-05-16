@@ -53,13 +53,13 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
+        name: "Check-in / Coffee",
         description: "",
         time: "8h00"
       },
       {
         name: "Welcome and Introductions",
-        description: "Gil Cohen and Shay Cohen",
+        description: "Shay Cohen",
         time: "9h30"
       },
       {
@@ -100,7 +100,7 @@ module.exports = {
       {
         name: "Day 1 Close",
         description: "",
-        time: "23h30"
+        time: "23h00"
       },
       {
         date: "<b>Day 2</b> Friday June 7, 2013"
@@ -118,27 +118,27 @@ module.exports = {
       {
         name: "Submission Deadline",
         description: "All projects must be submitted online at Hacker League",
-        time: "13h45"
+        time: "12h45"
       },
       {
         name: "Presentations and Demos",
         description: "Teams present their projects.",
-        time: "13h45"
+        time: "13h00"
       },
       {
         name: "Break",
         description: "Judges deliberate while everyone else takes a break",
-        time: "15h15"
+        time: "14h00"
       },
       {
         name: "Judging and Awards Ceremony",
         description: "Teams present their projects",
-        time: "15h30"
+        time: "14h15"
       },
       {
         name: "Event ends",
         description: "Goodbyes and Photos :)",
-        time: "15h30"
+        time: "15h00"
       }
     ],
 
