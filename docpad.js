@@ -20,8 +20,8 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://confboilerplate.com",
-      googleanalytics: "UA-33656081-1"
+      url: "http://tdhack.co.il",
+      googleanalytics: ""
     },
 
     // Active sections on the website
@@ -33,8 +33,8 @@ module.exports = {
       'speakers',
       'schedule',
       'sponsors',
-      'partners'
-      // 'contact'
+      'partners',
+      'contact'
     ],
 
     // Labels which you can translate to other languages
@@ -157,18 +157,18 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        name: "TokBox, Inc.",
+        logo: "themes/yellow-swan/img/tokbox.png",
+        url: "http://www.tokbox.com"
       }
     ],
 
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "Telefonica Digital",
+        logo: "themes/yellow-swan/img/telefonica-digital.jpeg",
+        url: "http://www.telefonica.com/en/digital"
       }
     ],
 
