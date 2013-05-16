@@ -14,7 +14,7 @@ module.exports = {
       venue: "Afeka College",
       address: "בני אפרים 218",
       city: "Tel Aviv",
-      state: "69107, Israel"
+      state: "69107, Israel 03-7688673"
     },
 
     // Site info
