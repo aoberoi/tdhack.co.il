@@ -1,0 +1,13 @@
+<h2 class="section-title"><%= @labels['prizes'] %></h2>
+
+<h3>Categories</h3>
+
+<h4>Most Innovative</h4>
+
+<h4>Most Fun</h4>
+
+<h4>Most Useful</h4>
+
+<h4>People's Choice</h4>
+
+<h4>Sponsor Awards</h4>
