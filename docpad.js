@@ -12,7 +12,7 @@ module.exports = {
       date: "June 6-7, 2013",
       price: "₪50",
       venue: "Afeka College",
-      address: "בני אפרים 218",
+      address: "38 Mivtsa Kadesh",
       city: "Tel Aviv",
       state: "69107, Israel"
     },
