@@ -12,7 +12,7 @@
 
 				// If not start with #, stop here!
 				if (linkTarget[0] !== '#') {
-					return false;
+					return true;
 				}
 
 				event.preventDefault();

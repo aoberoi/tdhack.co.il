@@ -6,6 +6,9 @@
         <a href="#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+    <li class="nav-item nav-item-right">
+      <span class="label">Organized and Hosted by </span><a href="http://www.telefonica.com/en/digital" class="tefd nav-link">Telefónica Digital</a>
+    </li>
   </ul>
 </nav>
 

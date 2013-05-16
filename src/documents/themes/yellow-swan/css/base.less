@@ -1,5 +1,11 @@
 @import "_mixins.less";
 
+@font-face {
+  font-family: 'TelefonicaHeadlineLightRegula';
+  src: url('fonts/telefonicaheadline-light.eot');
+  src: local('☺'), url('fonts/telefonicaheadline-light.woff') format('woff'), url('fonts/telefonicaheadline-light.otf') format('opentype'), url('fonts/telefonicaheadline-light.svg') format('svg');
+}
+
 /* =============================================================================
    MAIN LAYOUT
    ========================================================================== */
@@ -34,10 +40,9 @@ p {
 }
 
 .lead {
-  font-size: 2.3em;
-  font-weight: 500;
+  font-size: 3.2em;
   line-height: 1.3;
-  padding: 0.8em;
+  text-align: center;
 }
 
 /* =============================================================================
@@ -53,6 +58,12 @@ nav {
   display: inline-block;
   margin-right:15px;
 }
+.nav-item-right {
+  float: right;
+  margin-left: 15px;
+  margin-right:0;
+}
+
 .nav-link {font-size: 1.4em;}
 
 /* =============================================================================
@@ -69,13 +80,16 @@ nav {
 }
 .tagline {
   margin-bottom:50px;
-  font-size: 2em;
+  font-size: 2.5em;
+  font-weight: bold;
   letter-spacing: -.02em;
 }
 .call-action-area .price {
-  font-size:4em;
+  font-size:2em;
   vertical-align: center;
-  margin-right:20px;
+  /* margin-left:20px; */
+  margin-bottom: 0;
+  margin-top: 20px;
 }
 .call-action-area .call-action-link, .btn {
   position:relative;
@@ -277,6 +291,7 @@ nav {
 }
 
 @media only screen and (max-width : 480px) {
+
   /* nav */
   nav {display: none;}
   .header {padding:20px 0;}
@@ -286,8 +301,8 @@ nav {
     font-size: 1.4em;
   }
   .call-action-area .price {
-    font-size:2em;
-    margin: 0 0 15px;
+    font-size:1.5em;
+    margin: 15px 0 0 0;
     display: block;
   }
   .call-action-area .call-action-link, .btn {top:0;}
@@ -336,5 +351,24 @@ nav {
     width: 115px;
     height:115px;
     line-height: 115px;
+  }
+}
+
+@media only screen and (max-width: 661px) {
+  .nav-item-right {
+    font-size: 0.7em;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 587px) {
+  .nav-item-right .label {
+    display:none;
+  }
+}
+
+@media only screen and (max-width: 503px) {
+  .nav-item-right {
+    display:none;
   }
 }

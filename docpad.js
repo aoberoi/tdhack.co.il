@@ -54,105 +54,91 @@ module.exports = {
     schedule: [
       {
         name: "Check-in / Breakfast",
-        time: "9h00"
+        description: "",
+        time: "8h00"
       },
       {
-        name: "Linus Torvalds",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
-        link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
-        },
-        presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
-        }
+        name: "Welcome and Introductions",
+        description: "Gil Cohen and Shay Cohen",
+        time: "9h30"
       },
       {
-        name: "Bill Gates",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
-        presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "11h00"
-        }
+        name: "Venue Introduction",
+        description: "Afeka College",
+        time: "9h45"
+      },
+      {
+        name: "API Presentations",
+        description: "Our sponsors will demonstrate and explain some of the technologies they are making available for participants",
+        time: "10h00"
+      },
+      {
+        name: "Breakout for Ideas and Team Formation",
+        description: "Everyone is encourage to talk about their ideas and skills with one another. We will open up the mic to help people address the enitre room.",
+        time: "10h30"
+      },
+      {
+        name: "Start Hacking!",
+        description: "",
+        time: "11h00"
+      },
+      {
+        name: "Lunch Break",
+        description: "",
+        time: "12h30"
+      },
+      {
+        name: "Mentoring and Workshops",
+        description: "Mentors from the sponsoring companies will be available for feedback and deeper dives into their technologies.",
+        time: "13h30"
+      },
+      {
+        name: "Dinner",
+        description: "",
+        time: "18h30"
+      },
+      {
+        name: "Day 1 Close",
+        description: "",
+        time: "23h30"
+      },
+      {
+        date: "<b>Day 2</b> Friday June 7, 2013"
+      },
+      {
+        name: "Coffee and Breakfast",
+        description: "Teams continue hacking",
+        time: "8h00"
       },
       {
         name: "Lunch",
+        description: "",
         time: "12h00"
       },
       {
-        name: "Chuck Norris",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
-        link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
-        },
-        presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
-        }
+        name: "Submission Deadline",
+        description: "All projects must be submitted online at Hacker League",
+        time: "13h45"
       },
       {
-        name: "Steve Jobs",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
-        presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
-        }
+        name: "Presentations and Demos",
+        description: "Teams present their projects.",
+        time: "13h45"
       },
       {
-        name: "Coffee-break",
-        time: "15h00"
+        name: "Break",
+        description: "Judges deliberate while everyone else takes a break",
+        time: "15h15"
       },
       {
-        name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
-        presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
-        }
+        name: "Judging and Awards Ceremony",
+        description: "Teams present their projects",
+        time: "15h30"
       },
       {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
-        },
-        presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "17h00"
-        }
+        name: "Event ends",
+        description: "Goodbyes and Photos :)",
+        time: "15h30"
       }
     ],
 

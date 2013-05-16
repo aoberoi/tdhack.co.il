@@ -1,4 +1,3 @@
-<h2 class="section-title"><%= @labels['about'] %></h2>
 <p itemprop="description" class="lead"><b>TDHack</b> is a hackathon that brings together <b>entrepreneurs, developers, and designers</b> in Israel to work on <i>innovative projects</i> and <i>new ideas</i> for a <i>fun competition</i>.</p>
 
 <h4>Are you ready to show off your skills?</h4>
@@ -7,9 +6,9 @@
 
 <h4>Tell me more!</h4>
 
-<p>The entire event is graciously put together by <a href="#partners">Telefonica Digital</a> and the wonderful <a href="#sponsors">Sponsors</a>. They will be bringing experienced representatives that will help you think about, curate, mold, and refine your ideas. Who knows? They might even give you some free code and their own giveaways.
+<p>The entire event is graciously put together by <a href="#partners">Telefonica Digital</a> and the wonderful <a href="#sponsors">Sponsors</a>. They will be bringing experienced representatives that will help you think about, curate, mold, and refine your ideas. That's not all,  they will stick around to help you code, and sponsors will have their own giveaways and gifts for attendees.
 
 <h4>What do I need?</h4>
 
-<p><a href="#">Register on Eventbite</a> now to get yourself a ticket. All you need is your ideas and probably a laptop to build it on. You can come with friends and work together as a team or you can meet new people and work with others. Don't worry about food and drinks during the entire event. We will provide meals and late night snacks to keep the energy and coding going.</p>
+<p><a href="http://tdhack.eventbrite.com/">Register on Eventbite</a> now to get yourself a ticket. All you need is your ideas and a laptop to build it on. You can come with friends and work together as a team or you can meet new people to work with. Don't worry about food and drinks during the entire event. We will provide meals and late night snacks to keep the energy and coding going.</p>
 
