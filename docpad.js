@@ -148,6 +148,16 @@ module.exports = {
         name: "TokBox, Inc.",
         logo: "themes/yellow-swan/img/tokbox.png",
         url: "http://www.tokbox.com"
+      },
+      {
+        name: "SendGrid",
+        logo: "themes/yellow-swan/img/sendgrid.jpg",
+        url: "http://sendgrid.com"
+      },
+      {
+        name: "Yotpo",
+        logo: "themes/yellow-swan/img/yotpo.jpg",
+        url: "https://www.yotpo.com"
       }
     ],
 
