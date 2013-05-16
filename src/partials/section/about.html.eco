@@ -1,6 +1,15 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<p itemprop="description" class="lead"><b>TDHack</b> is a hackathon that brings together <b>entrepreneurs, developers, and designers</b> in Israel to work on <i>innovative projects</i> and <i>new ideas</i> for a <i>fun competition</i>.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<h4>Are you ready to show off your skills?</h4>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>If you've never been to a hackthon, get ready for a fast-paced and exciting 2 days of hacking with smart and interesting people. TDHack is an event to meet others and talk about your out-of-the-box project ideas, form teams, and then actually build a working demo all within 2 days! It can be your "next big thing" business idea or just a cool demonstration of a new (and hopefully useful) technology. The best projects will win some <a href="#">amazing prizes</a> on top of the reputation of being awarded <i>most innovative</i>, <i>most fun</i> or <i>most useful</i>, among others.
+
+<h4>Tell me more!</h4>
+
+<p>The entire event is graciously put together by <a href="#partners">Telefonica Digital</a> and the wonderful <a href="#sponsors">Sponsors</a>. They will be bringing experienced representatives that will help you think about, curate, mold, and refine your ideas. Who knows? They might even give you some free code and their own giveaways.
+
+<h4>What do I need?</h4>
+
+<p><a href="#">Register on Eventbite</a> now to get yourself a ticket. All you need is your ideas and probably a laptop to build it on. You can come with friends and work together as a team or you can meet new people and work with others. Don't worry about food and drinks during the entire event. We will provide meals and late night snacks to keep the energy and coding going.</p>
+
