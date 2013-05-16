@@ -1,44 +1,4 @@
-*[Leia a documentação em Português](https://github.com/braziljs/conf-boilerplate/blob/master/README-pt.md)*
-
----
-
-# Conf Boilerplate [![Build Status](https://secure.travis-ci.org/braziljs/conf-boilerplate.png?branch=master)](https://travis-ci.org/braziljs/conf-boilerplate)
-
-![image](http://f.cl.ly/items/2i1m3z3i1a3Z0I1X472B/logo.jpg)
-
-An iniciative of [BrazilJS Foundation](http://braziljs.org) to help those people who wants to organize conferences/events and don't have too much time to create the website of it.
-
-## Table of contents
-
-* [See live demo](http://confboilerplate.com)
-* [How it works?](#how-it-works)
-* [Getting Started](#getting-started)
-* [Structure](#structure)
-* [Customization](#customization)
-* [Deploy](#deploy)
-* [Showcase](#showcase)
-* [Contributing](#contributing)
-* [Who is behind of it?](#who-is-behind-of-it)
-* [License](#license)
-
-## How it works?
-
-[![image](http://f.cl.ly/items/1q3i0r3q0n3y1N070M47/Screen%20Shot%202012-11-16%20at%207.05.44%20PM.png)](http://www.youtube.com/watch?v=EI99oZI3nKY)
-
-We use [DocPad](https://github.com/bevry/docpad), a static generator in NodeJS, to create an easily customizable template. More than that, hosting is free via [Github Pages](http://pages.github.com) and you can use your own domain *(more information about that on [Deploy](#custom-domain))*
-
-By default, we have the following sections:
-
-* *About* - to describe what's the main goal of your event.
-* *Location* - to show where it's going to happen through Google Maps.
-* *Speakers* - to list information about speakers.
-* *Schedule* - to show the agenda.
-* *Sponsors* - to show the brand of your sponsors.
-* *Partners* - to show the brand of your partners.
-
-*P.S. 1: There is no integration with any registration and/or payment system. For this reason, we recommend [Eventick](http://eventick.com.br/).*
-
-*P.S. 2: We haven't developed a highly automated and customizable solution for contact forms yet. For this reason, we recommend [Wufoo](http://wufoo.com/).*
+# TDHack Website
 
 ## Getting Started
 
