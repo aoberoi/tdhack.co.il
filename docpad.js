@@ -7,14 +7,14 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
-      description: "Conference description",
-      date: "November 15",
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      name: "TDHack",
+      description: "The first Telefonica Digital Hackathon in Israel",
+      date: "June 6-7, 2013",
+      price: "₪50",
+      venue: "Afeka College",
+      address: "בני אפרים 218",
+      city: "Tel Aviv",
+      state: "69107, Israel"
     },
 
     // Site info
