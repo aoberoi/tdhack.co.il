@@ -30,11 +30,11 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
+      //'speakers',
       'schedule',
       'sponsors',
       'partners',
-      'contact'
+      //'contact'
     ],
 
     // Labels which you can translate to other languages
