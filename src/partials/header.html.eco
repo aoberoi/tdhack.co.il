@@ -7,7 +7,6 @@
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
     <div class="call-action-area">
       <a href="http://tdhack.eventbrite.com/" class="call-action-link" title="Register now!">Register now!</a>
-      <p class="price">Only <%= @conf.price %> w/ over ₪100 in free gifts</p>
     </div>
   </div>
 </header>
