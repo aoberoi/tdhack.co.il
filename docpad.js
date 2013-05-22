@@ -59,7 +59,7 @@ module.exports = {
       },
       {
         name: "Welcome and Introductions",
-        description: "Shay Cohen",
+        description: "Shay Cohen, Telefonica Digital Israel VP R&D",
         time: "9h30"
       },
       {
