@@ -30,7 +30,7 @@ module.exports = {
     sections: [
       'about',
       'location',
-      //'speakers',
+      'speakers',
       'schedule',
       'prizes',
       'partners',
@@ -42,7 +42,7 @@ module.exports = {
     labels: {
       about: "About",
       location: "Location",
-      speakers: "Speakers",
+      speakers: "Judges",
       schedule: "Schedule",
       prizes: "Prizes",
       partners: "Host",
@@ -158,6 +158,19 @@ module.exports = {
         name: "Yotpo",
         logo: "themes/yellow-swan/img/yotpo.jpg",
         url: "https://www.yotpo.com"
+      },
+      {
+        name: "Afeka College of Engineering",
+        logo: "themes/yellow-swan/img/afeka.gif",
+        url: "http://www.afeka.ac.il/Afeka_College_of_Engineering_en.aspx"
+      }
+    ],
+
+    speakers: [
+      {
+        name: "Eran Aharonson",
+        bio: "An expert in intelligent systems, natural user interfaces, recognition methods, machine learning and mobile products. Eran brings over two decades of experience in management, business development, sales, and technology. He founded and served as CEO of Intuitive User Interfaces, an innovative company that simplified smartphone user interfaces utilizing machine learning techniques. Prior to that Eran was the CEO of ART (Advanced Recognition Technologies), a leading handwriting and speech recognition company that was acquired by Nuance Communications (NASDAQ: NUAN). He also served as VP of Computational Life Science R&D at Compugen (NASDAQ: CGEN). Eran holds several patents in the field of natural user interfaces. Eran is currently a lecturer, head of mobile system technology specialization at Afeka Tel Aviv Academic College of Engineering, Software Engineering Department. and head of ACMiX - Afeka Center for Mobile Intelligent Experience. Eran holds Masters and Bachelor degrees in Computer Science from the Technion-Israel Institute of Technology.",
+        photo: "themes/yellow-swan/img/eran.jpg"
       }
     ],
 
