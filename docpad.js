@@ -29,10 +29,10 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
+      'prizes',
       'location',
       'speakers',
       'schedule',
-      'prizes',
       'partners',
       'sponsors',
       //'contact'
@@ -60,27 +60,27 @@ module.exports = {
       {
         name: "Welcome and Introductions",
         description: "Shay Cohen, Telefonica Digital Israel VP R&D",
-        time: "9h30"
+        time: "9h00"
       },
       {
         name: "Venue Introduction",
         description: "Afeka College",
-        time: "9h45"
+        time: "9h15"
       },
       {
         name: "API Presentations",
         description: "Our sponsors will demonstrate and explain some of the technologies they are making available for participants",
-        time: "10h00"
+        time: "9h25"
       },
       {
         name: "Breakout for Ideas and Team Formation",
         description: "Everyone is encourage to talk about their ideas and skills with one another. We will open up the mic to help people address the enitre room.",
-        time: "10h30"
+        time: "9h45"
       },
       {
         name: "Start Hacking!",
         description: "",
-        time: "11h00"
+        time: "10h15"
       },
       {
         name: "Lunch Break",
@@ -171,7 +171,27 @@ module.exports = {
         name: "Eran Aharonson",
         bio: "An expert in intelligent systems, natural user interfaces, recognition methods, machine learning and mobile products. Eran brings over two decades of experience in management, business development, sales, and technology. He founded and served as CEO of Intuitive User Interfaces, an innovative company that simplified smartphone user interfaces utilizing machine learning techniques. Prior to that Eran was the CEO of ART (Advanced Recognition Technologies), a leading handwriting and speech recognition company that was acquired by Nuance Communications (NASDAQ: NUAN). He also served as VP of Computational Life Science R&D at Compugen (NASDAQ: CGEN). Eran holds several patents in the field of natural user interfaces. Eran is currently a lecturer, head of mobile system technology specialization at Afeka Tel Aviv Academic College of Engineering, Software Engineering Department. and head of ACMiX - Afeka Center for Mobile Intelligent Experience. Eran holds Masters and Bachelor degrees in Computer Science from the Technion-Israel Institute of Technology.",
         photo: "themes/yellow-swan/img/eran.jpg"
-      }
+      },
+      {
+        name: "Omri Cohen",
+        bio: "Omri is the co-founder and CTO of Yotpo. BSc in Electrical Engineering and Computer Science. Passionate about technology and the internet . Love to build things and then make them grow. ",
+        photo: "themes/yellow-swan/img/omri-p.png"
+      },
+      {
+        name: "Mike Swift",
+        bio: "Meet Swift, developer evangelist at-large for SendGrid and mad scientist hacker. As a lifelong developer himself, Swift has made it his personal mission to enable developers by helping them get the tools and resources they need to make awesome, creative stuff. Swift is also one of the founders of Hacker League, the platform for hackathons, and a former engineer at Crowdtap.",
+        photo: "themes/yellow-swan/img/swift.jpeg"
+      },
+      {
+        name: "Shay Cohen",
+        bio: "Shay is the head Communication Products R&D in Telefónica Digital, responsible of developing the next generation communication platform and products for Telefónica. Prior to his current role in Telephonic Digital, Shay was the VP R&D of Jajah and spent 4 years in Microsoft’s telecom division and 6 years in VocalTec as R&D director. Shay has vast experience in leading development of Telephony, Billing & VoIP products, Voice-Over-Broadband and OTT services. During the years Shay has led many integrations and services for large T1 operators.",
+        photo: "themes/yellow-swan/img/shay.png"
+      },
+      {
+        name: "Ankur Oberoi",
+        bio: "",
+        photo: "themes/yellow-swan/img/ankur.jpg"
+      },
     ],
 
     // List of Partners

@@ -1,3 +1,16 @@
 <h2 class="section-title"><%= @labels['prizes'] %></h2>
 
-<p>Prizes galore soon to be revealed!</p>
+<div class="prize">
+  <h3 class="lighter">Grand Prize</h3>
+  <h3>₪5000 in Gift Cards</h3>
+</div>
+
+<div class="prize">
+  <h3 class="lighter">Runner Up (2nd)</h3>
+  <h3>₪3000 in Gift Cards</h3>
+</div>
+
+<div class="prize">
+  <h3 class="lighter">Crowd Favorite (חביב הקהל)</h3>
+  <h3>₪2000 in Gift Cards</h3>
+</div>
