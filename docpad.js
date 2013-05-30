@@ -189,7 +189,7 @@ module.exports = {
       },
       {
         name: "Ankur Oberoi",
-        bio: "",
+        bio: "Ankur is a Developer Evangelist for Tokbox. He hacks with developers on all types of projects, but especially those involving OpenTok. Some of his strongest skills are JavaScript (browser and node), iOS, and Ruby. Ankur also regularly meets with entreprenurs and founders to help them validate and implement ideas they are working on. He has a B.S. in Computer Engineering and attended the University of Maryland."
         photo: "themes/yellow-swan/img/ankur.jpg"
       },
     ],
