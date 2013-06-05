@@ -40,7 +40,7 @@
         <%- @content %>
         <!-- FOOTER -->
         <footer class="footer">
-        <p>Made with ♥  by a <a href="#">fellow hacker</a> :)</p>
+        <p>Made with ♥  by a <a href="https://twitter.com/aoberoi">fellow hacker</a> :)</p>
         </footer>
         <!-- / FOOTER -->
       </div>
